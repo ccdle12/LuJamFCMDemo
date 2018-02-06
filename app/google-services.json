@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "741750840262",
+    "firebase_url": "https://lujamfcmdemo.firebaseio.com",
+    "project_id": "lujamfcmdemo",
+    "storage_bucket": "lujamfcmdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741750840262:android:8564c96181e82c46",
+        "android_client_info": {
+          "package_name": "com.example.christophercoverdale.lujam_fcm_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741750840262-vl18gs7960piibou1obs3b3fvjf7ntmi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.christophercoverdale.lujam_fcm_demo",
+            "certificate_hash": "ad4067b27ad9250a46c59a3ea612e0565c522159"
+          }
+        },
+        {
+          "client_id": "741750840262-joh1ksu4jem4ppg7mdu8bdia1duul7lk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaVgjAJvTV4jmBGewLqIMexnY2YbaT56M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741750840262-joh1ksu4jem4ppg7mdu8bdia1duul7lk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
