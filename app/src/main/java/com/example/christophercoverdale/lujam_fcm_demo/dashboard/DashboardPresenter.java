@@ -1,5 +1,7 @@
 package com.example.christophercoverdale.lujam_fcm_demo.dashboard;
 
+import android.util.Log;
+
 import com.google.firebase.iid.FirebaseInstanceId;
 
 /**
@@ -23,6 +25,7 @@ public class DashboardPresenter implements IDashboardPresenter
     public void getTokenBtnClicked()
     {
         String token = FirebaseInstanceId.getInstance().getToken();
+        Log.d("FIREBASE TOKEN", token);
         dashboard.showToken(token);
     }
 }
